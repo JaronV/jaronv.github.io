@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Jaron's Blog
 email: vervynckt.jaron@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-Come for the interesting topics, stay for the rants.
+description: Come for the interesting topics, stay for the rants.
 twitter_username: JaronVervynckt
 github_username: jaronv
 minimal_mistakes_skin: default
