@@ -200,10 +200,9 @@ This goes for personal development or project based tasks.
 ![pkm_link](../../assets/images/pkm_link.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## Learning paths
-  builds training trajectory
-  links to training resources
+You can create specific pages about the resources that aided you in your research.
+In turn this creates a training path that others can follow and reuse.
 ![pkm_learn](../../assets/images/pkm_learn.gif){:style="display:block; margin-left:auto; margin-right:auto"}
-
 
 
 ## Spot double work 
